@@ -251,6 +251,16 @@
           "sort": 7,
           "show": true,
           "author": "swag~jun"
+        },
+        {
+          "version": "1.0.0",
+          "name": "ActionSheet",
+          "type": "component",
+          "cName": "动作面板",
+          "desc": "从底部弹出的动作菜单面板。",
+          "sort": 10,
+          "show": true,
+          "author": "dsj"
         }
       ]
     },
